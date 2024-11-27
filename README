@@ -1,0 +1,1 @@
+This is a simple project that allows an ESP32 to read the temperature and humidity from a cheap AHT21 sensor, then post that information on a simple http server and an 16x2 LCD screen, both using the I2C bus. Enjoy.
